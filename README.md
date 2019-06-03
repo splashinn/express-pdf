@@ -1,4 +1,4 @@
-# express-to-pdf
+# express to pdf
 
 Generate a PDF file from a web form using Express and NodeJS
 
