@@ -5,7 +5,7 @@ Generate a PDF file from a web form using Express and NodeJS
 ## Installing
 
 ````
-git clone
+git clone git@github.com:splashinn/express-pdf.git
 cd express-to-pdf
 yarn
 ````
