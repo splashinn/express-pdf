@@ -19,12 +19,12 @@
     "package-json": "^6.5.0",
     "pdfkit": "^0.11.0",
     "pug": "^2.0.4",
-    "semver": "^6.3.0",
+    "semver": "^7.0.0",
     "serve-favicon": "^2.5.0",
-    "ws": "^6.1.0"
+    "ws": "^7.2.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.2",
-    "now": "^15.8.7"
+    "now": "^16.7.0"
   }
 }
