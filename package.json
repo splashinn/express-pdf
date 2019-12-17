@@ -18,13 +18,13 @@
     "morgan": "^1.9.1",
     "package-json": "^6.5.0",
     "pdfkit": "^0.9.1",
-    "pug": "^2.0.3",
+    "pug": "^2.0.4",
     "semver": "^6.3.0",
     "serve-favicon": "^2.5.0",
     "ws": "^6.1.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.0",
-    "now": "^15.3.0"
+    "nodemon": "^1.19.4",
+    "now": "^15.8.7"
   }
 }
