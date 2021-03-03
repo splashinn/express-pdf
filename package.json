@@ -18,7 +18,7 @@
     "morgan": "^1.9.1",
     "package-json": "^6.5.0",
     "pdfkit": "^0.9.1",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "semver": "^6.3.0",
     "serve-favicon": "^2.5.0",
     "ws": "^6.1.0"
